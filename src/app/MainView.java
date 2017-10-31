@@ -31,7 +31,7 @@ import fileHandlingTXT.TXT_File_Data;
 public class MainView extends JFrame {
 	
 	// class variable declarations
-	private static final long serialVersionUID = 13L;
+	private static final long serialVersionUID = 17L;
 
 	private static String fromDirPass = "Please enter a source directory for passing images here";
 	private static String fromDirFail = "Please enter a source directory for failing images here";

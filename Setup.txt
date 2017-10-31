@@ -1,0 +1,6 @@
+C:\Users\KBAKI2\Documents\Sensopart Test Camera FTP Target\Pass\
+C:\Users\KBAKI2\Documents\Sensopart Test Camera FTP Target\Fail\
+C:\Users\KBAKI2\Documents\Sensopart Test Archive\
+ftp.stackcp.com
+vivostilecamera@controlsatspringlake.com
+camera1!

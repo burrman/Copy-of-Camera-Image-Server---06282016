@@ -135,7 +135,7 @@ public class Task_MonitorFolder extends TimerTask {
 								+ second + "s_" + jobNumber + "_" + pass_fail + ".bmp";
 
 						// compile a new directory name
-						String modifiedToDir = toDir + year + "/" + month + "/" + day + "/";
+						String modifiedToDir = toDir + year + "/" + month + "/" + day + "/" + hour + "/";
 
 						// check if the target directory already exists
 						if (DirectoryManagement.CheckDirectory(modifiedToDir).result == false) {

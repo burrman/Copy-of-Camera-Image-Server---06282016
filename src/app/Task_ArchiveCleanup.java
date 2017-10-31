@@ -208,8 +208,8 @@ public class Task_ArchiveCleanup extends TimerTask {
 																		// the
 																		// file
 
-								// is the file more than 3 days old
-								if (fileAge > (3 * 24 * 60 * 60 * 1000)) {
+								// is the file more than 2 days old
+								if (fileAge > (2 * 24 * 60 * 60 * 1000)) {
 
 									// see how many passing files for this job
 									// have already been saved
